@@ -1,1 +1,1 @@
-# fuzzy-c-means-clustering
+This is a FCM code in java.Fuzzy c-means (FCM) is a method of clustering which  allows one piece of data to belong to two or more clusters. Each data point has a degree of membership (or probability) of belonging to each cluster. 
